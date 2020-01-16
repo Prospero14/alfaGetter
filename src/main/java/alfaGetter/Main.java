@@ -4,7 +4,7 @@ import alfaGetter.Parser;
 
 public class Main {
      String textLine;
-     GetText getText1 = new GetText() ;
+     public GetText;
 
 
     public static void main (String[] args){

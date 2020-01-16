@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c667e31-0630-489c-a55e-629d5f233b66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/alfaGetter/GetText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/alfaGetter/GetText.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/alfaGetter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/alfaGetter/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/alfaGetter/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/alfaGetter/Parser.java" afterDir="false" />
@@ -49,7 +46,14 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="Unnamed (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="alfaGetter.Parser" />
+      <module name="alfaGetter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="alfaGetter.Main" />
       <module name="alfaGetter" />
@@ -57,6 +61,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Unnamed (1)" />
+    </list>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -84,14 +92,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579195343612">
+    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579195995248">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1579195343612" />
-    <state x="529" y="215" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579195338719">
+    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1579195995248" />
+    <state x="529" y="215" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579195992476">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="529" y="215" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.860@0.0.1600.860" timestamp="1579195338719" />
+    <state x="529" y="215" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.860@0.0.1600.860" timestamp="1579195992476" />
     <state x="648" y="320" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579187218285">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -108,6 +116,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1579188011837" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1579196002066">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1579196002066" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1579196002066">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1579196002066" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1579196002066">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1579196002066" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1579196002066">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1579196002066" />
     <state x="280" y="5" key="SettingsEditor" timestamp="1579192858500">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
