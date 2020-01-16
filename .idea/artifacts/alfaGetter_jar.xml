@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="alfaGetter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/alfaGetter_jar</output-path>
+    <root id="archive" name="alfaGetter.jar">
+      <element id="module-output" name="alfaGetter" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/selenium/libs/okio-1.14.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/selenium/libs/okhttp-3.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/selenium/libs/guava-25.0-jre.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/selenium/libs/commons-exec-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/selenium/libs/byte-buddy-1.8.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/selenium/client-combined-3.141.59.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/selenium/client-combined-3.141.59-sources.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

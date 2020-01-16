@@ -3,8 +3,8 @@ package alfaGetter;
 import alfaGetter.Parser;
 
 public class Main {
-     String textLine;
-     public GetText;
+     public Parser parse = new Parser(){
+    };
 
 
     public static void main (String[] args){
