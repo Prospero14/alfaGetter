@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c667e31-0630-489c-a55e-629d5f233b66" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/alfaGetter/GetText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/alfaGetter/GetText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/alfaGetter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/alfaGetter/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/alfaGetter/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/alfaGetter/Parser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/alfaGetter/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/alfaGetter/Parser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/alfaGetter/GetterGui.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/alfaGetter/GetterGui.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaFXApplication" />
         <option value="Class" />
+        <option value="JavaFXApplication" />
       </list>
     </option>
   </component>
@@ -46,12 +44,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/selenium/libs" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="alfaGetter" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="alfaGetter" />
     </key>
@@ -142,9 +143,13 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1579200493485" />
-    <state x="280" y="5" key="SettingsEditor" timestamp="1579199960662">
+    <state x="330" y="86" key="Maven.ArtifactSearchDialog" timestamp="1579202249411">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="280" y="5" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1579199960662" />
+    <state x="330" y="86" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1579202249411" />
+    <state x="280" y="5" key="SettingsEditor" timestamp="1579202502047">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="280" y="5" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1579202502047" />
   </component>
 </project>
