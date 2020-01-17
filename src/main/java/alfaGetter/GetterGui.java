@@ -13,13 +13,21 @@ public class GetterGui extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception {
-        Text helloWorld = new Text("Hello world");
-        StackPane root = new StackPane(helloWorld);
-        primaryStage.setScene(new Scene(root, 300, 120));
-        primaryStage.centerOnScreen();
+        primaryStage.setTitle("Hello world Application");
+        primaryStage.setWidth(300);
+        primaryStage.setHeight(200);
+
+        InputStream iconStream = getClass().getResourceAsStream("/icon.png");
+        Image image = new Image(iconStream);
+        primaryStage.getIcons().add(image);
+
+        Label helloWorldLabel = new Label("Hello world!");
+        helloWorldLabel.setAlignment(Pos.CENTER);
+        Scene primaryScene = new Scene(helloWorldLabel);
+        primaryStage.setScene(primaryScene);
+
         primaryStage.show();
     }
-
     public static void main(String[] args) {
         launch(GetterGui.class, args);
     }
